@@ -27,6 +27,7 @@ the table of content before making pull requests.
   - [Smart Scale](#smart-scale)
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
+  - [Fridge](#fridge)
   - [Media Player & TV](#media-player-&-tv)
   - [Toilet](#toilet)
   - [Toys](#toys)
@@ -113,6 +114,10 @@ the table of content before making pull requests.
 - [Google Nest: Exploiting DFU For Root](https://blog.exploitee.rs/2014/google-nest-exploiting-dfu-for-root/)
 - [Smart Nest Thermostat, A Smart Spy in Your Home](https://www.blackhat.com/docs/us-14/materials/us-14-Jin-Smart-Nest-Thermostat-A-Smart-Spy-In-Your-Home.pdf)
 - [TWSL2013-022: No Authentication Vulnerability in Radio Thermostat](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-022/?fid=3870)
+
+### Fridge
+
+- [Proofpoint Uncovers Internet of Things (IoT) Cyberattack](http://investors.proofpoint.com/releasedetail.cfm?releaseid=819799) - Spam emails from fridges.
 
 ### Media Player & TV
 
