@@ -1,6 +1,6 @@
 # Awesome IoT Hacks
 
-A collection of hacks in IoT space so that researchers and industrial products
+A curated list of hacks in IoT space so that researchers and industrial products
 can address the security vulnerabilities (_hopefully_).
 
 The table of content is generated with
