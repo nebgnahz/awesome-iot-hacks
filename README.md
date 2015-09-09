@@ -4,8 +4,8 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 
 ## Contents
 
-- [Analysis and Reports](#analysis-and-reports)
-- [Community](#community)
+- [Analysis, Reports, and Slides](#analysis-reports-and-slides)
+- [Communities](#communities)
 - [IoT Hacks](#iot-hacks)
   - [Home Automation](#home-automation)
   - [IP Cameras](#ip-cameras)
@@ -13,18 +13,19 @@ A collection of hacks in IoT space so that we can address them (hopefully).
   - [Automobiles](#automobiles)
   - [Light Bulbs](#light-bulbs)
   
-## Analysis and Reports
+## Analysis, Reports and Slides
 
-- [HP 2014 Report](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
-- [The Internet of Fails](http://www.slideshare.net/markstanislav/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right)
+- [Internet of Things Research Study (HP 2014 Report)](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
+- [The Internet of Fails](http://www.slideshare.net/markstanislav/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right),
+  ([video](www.youtube.com/watch?v=8hLeVSvoHqI))
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
-- [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf), [wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs)
+- [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf) - ([wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs))
 
-## Community
+## Communities
 
 - [IoT Village<sup>TM</sup>](https://www.iotvillage.org/)
 - [BuildItSecure.ly](http://builditsecure.ly/)
-- [Secure Internet of Things Project](http://iot.stanford.edu/people.html)
+- [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ## IoT Hacks
