@@ -31,6 +31,7 @@ A collection of hacks in IoT space so that we can address them (hopefully).
   ([video](www.youtube.com/watch?v=8hLeVSvoHqI))
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
 - [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf) - ([wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs))
+- [Careful Connections: Building Security in the Internet of Things (FTC)](https://www.ftc.gov/system/files/documents/plain-language/pdf0199-carefulconnections-buildingsecurityinternetofthings.pdf)
 
 ## Communities
 
@@ -41,25 +42,34 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 
 ## IoT Hacks
 
+### RFID
+
+- [Vulnerabilities in First-Generation RFID-enabled Credit Cards](http://www.arijuels.com/wp-content/uploads/2013/09/HBFJ+07.pdf)
+- [MIT Subway Hack Paper Published on the Web](http://www.pcmag.com/article2/0,2817,2327898,00.asp)
+- [Tampered Card Readers Steal Data via Bluetooth](http://www.americanbanker.com/security-watch/bluetooth-skimming-1042020-1.html)
+
 ### Home Automation
 
 - [IOActive identifies vulnerabilities in Belkin WeMo's Home Automation](http://www.ioactive.com/pdfs/IOActive_Belkin-advisory-lite.pdf)
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
+- [Popular Home Automation System Backdoored Via Unpatched Flaw](http://www.darkreading.com/vulnerabilities---threats/popular-home-automation-system-backdoored-via-unpatched-flaw/d/d-id/1320004?_mc=sm_dr_editor_kellyjacksonhiggins)
 
 ### Hub
 
-- [Insteon Hub: When 'Smart Homes' Get Hacked: I Haunted A Complete Stranger's House Via The Internet](http://www.forbes.com/sites/kashmirhill/2013/07/26/smart-homes-hack/)
+- [TWSL2013-023: Lack of Web and API AuthenticationVulnerability in INSTEON Hub](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-023/?fid=3869)
 
 ### Wearable
 
 - [How I hacked my smart bracelet](https://securelist.com/blog/research/69369/how-i-hacked-my-smart-bracelet/)
 
-### IP Cameras
+### Cameras
 
 - [Trendnet Cameras - I always feel like somebody's watching me](http://console-cowboys.blogspot.com/2012/01/trendnet-cameras-i-always-feel-like.html)
 - [Hacker Hotshots: Eyes on IZON Surveilling IP Camera Security](https://www.concise-courses.com/security/izon-hacking/)
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
 - [Hacker 'shouts abuse' via Foscam baby monitoring camera](http://www.bbc.com/news/technology-23693460)
+- [Urban surveillance camera systems lacking security](https://blog.kaspersky.com/urban-surveillance-not-secure/8901/)
+- [TWSL2014-007: Multiple Vulnerabilities in Y-Cam IP Cameras](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2014-007/?fid=3850)
 
 ### Traffic Lights
 
@@ -88,9 +98,19 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
 - [Google Nest: Exploiting DFU For Root](https://blog.exploitee.rs/2014/google-nest-exploiting-dfu-for-root/)
+- [Smart Nest Thermostat, A Smart Spy in Your Home](https://www.blackhat.com/docs/us-14/materials/us-14-Jin-Smart-Nest-Thermostat-A-Smart-Spy-In-Your-Home.pdf)
+- [TWSL2013-022: No Authentication Vulnerability in Radio Thermostat](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-022/?fid=3870)
 
 ### Media Player & TV
 
 - [Breaking Secure-Boot on the Roku](https://blog.exploitee.rs/2013/breaking-secure-boot-on-the-roku/)
 - [Google TV Or: How I Learned to Stop Worrying and Exploit Secure Boot](https://blog.exploitee.rs/2013/google-tv-or-how-i-learned-to-stop-worrying-and-exploit-secure-boot/)
 - [Chromecast: Exploiting the Newest Device By Google](https://blog.exploitee.rs/2013/chromecast-exploiting-the-newest-device-by-google/)
+
+### Toilet
+
+- [TWSL2013-020: Hard-Coded Bluetooth PIN Vulnerability in LIXIL Satis Toilet](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-020/?fid=3872)
+
+### Toys
+
+- [TWSL2013-021: Multiple Vulnerabilities in Karotz Smart Rabbit](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-021/?fid=3871)
