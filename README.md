@@ -15,6 +15,7 @@ the table of content before making pull requests.
 - [Analysis, Reports and Slides](#analysis-reports-and-slides)
 - [Communities](#communities)
 - [IoT Hacks](#iot-hacks)
+  - [Thingbots](#thingbots)
   - [RFID](#rfid)
   - [Home Automation](#home-automation)
   - [Hub](#hub)
@@ -49,6 +50,10 @@ the table of content before making pull requests.
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ## IoT Hacks
+
+### Thingbots
+
+- [Proofpoint Uncovers Internet of Things (IoT) Cyberattack](http://investors.proofpoint.com/releasedetail.cfm?releaseid=819799)
 
 ### RFID
 
