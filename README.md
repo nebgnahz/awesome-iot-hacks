@@ -17,11 +17,15 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 
 - [HP 2014 Report](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
 - [The Internet of Fails](http://www.slideshare.net/markstanislav/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right)
+- [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
+- [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf), [wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs)
 
 ## Community
 
 - [IoT Village<sup>TM</sup>](https://www.iotvillage.org/)
 - [BuildItSecure.ly](http://builditsecure.ly/)
+- [Secure Internet of Things Project](http://iot.stanford.edu/people.html)
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ## IoT Hacks
 
@@ -48,4 +52,11 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 
 - [Hacking into Internet Connected Light Bulbs](http://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
 
+### Smart Scale
+
+- [Fitbit Aria Wi-Fi Smart Scale](https://www.hackerspace-bamberg.de/Fitbit_Aria_Wi-Fi_Smart_Scale)
+
+### Pacemaker
+
+- [Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses](http://www.secure-medicine.org/public/publications/icd-study.pdf)
 
