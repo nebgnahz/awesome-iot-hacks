@@ -1,6 +1,11 @@
 # Awesome IoT Hacks
 
-A collection of hacks in IoT space so that we can address them (hopefully).
+A collection of hacks in IoT space so that researchers and industrial products
+can address the security vulnerabilities (_hopefully_).
+
+The table of content is generated with
+[doctoc](https://github.com/thlorenz/doctoc). Make sure you run it and update
+the table of content before making pull requests.
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -10,10 +15,11 @@ A collection of hacks in IoT space so that we can address them (hopefully).
 - [Analysis, Reports and Slides](#analysis-reports-and-slides)
 - [Communities](#communities)
 - [IoT Hacks](#iot-hacks)
+  - [RFID](#rfid)
   - [Home Automation](#home-automation)
   - [Hub](#hub)
   - [Wearable](#wearable)
-  - [IP Cameras](#ip-cameras)
+  - [Cameras](#cameras)
   - [Traffic Lights](#traffic-lights)
   - [Automobiles](#automobiles)
   - [Light Bulbs](#light-bulbs)
@@ -21,6 +27,8 @@ A collection of hacks in IoT space so that we can address them (hopefully).
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
   - [Media Player & TV](#media-player-&-tv)
+  - [Toilet](#toilet)
+  - [Toys](#toys)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
   
