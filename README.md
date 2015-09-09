@@ -118,6 +118,7 @@ the table of content before making pull requests.
 ### Fridge
 
 - [Proofpoint Uncovers Internet of Things (IoT) Cyberattack](http://investors.proofpoint.com/releasedetail.cfm?releaseid=819799) - Spam emails from fridges.
+- [Hacking Defcon 23'S IoT Village Samsung Fridge](https://www.pentestpartners.com/blog/hacking-defcon-23s-iot-village-samsung-fridge/)
 
 ### Media Player & TV
 
