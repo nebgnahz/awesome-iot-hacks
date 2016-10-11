@@ -33,7 +33,7 @@ the table of content before making pull requests.
   - [Toys](#toys)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-  
+
 ## Analysis, Reports and Slides
 
 - [Internet of Things Research Study (HP 2014 Report)](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
@@ -84,6 +84,7 @@ the table of content before making pull requests.
 - [Hacker 'shouts abuse' via Foscam baby monitoring camera](http://www.bbc.com/news/technology-23693460)
 - [Urban surveillance camera systems lacking security](https://blog.kaspersky.com/urban-surveillance-not-secure/8901/)
 - [TWSL2014-007: Multiple Vulnerabilities in Y-Cam IP Cameras](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2014-007/?fid=3850)
+- [Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras](https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/)
 
 ### Traffic Lights
 
