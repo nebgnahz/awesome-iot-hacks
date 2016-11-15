@@ -20,6 +20,7 @@ the table of content before making pull requests.
   - [Home Automation](#home-automation)
   - [Hub](#hub)
   - [Wearable](#wearable)
+  - [Smart Plug](#smart-plug)
   - [Cameras](#cameras)
   - [Traffic Lights](#traffic-lights)
   - [Automobiles](#automobiles)
@@ -28,7 +29,7 @@ the table of content before making pull requests.
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
   - [Fridge](#fridge)
-  - [Media Player & TV](#media-player-&-tv)
+  - [Media Player & TV](#media-player--tv)
   - [Toilet](#toilet)
   - [Toys](#toys)
 
@@ -75,6 +76,12 @@ the table of content before making pull requests.
 ### Wearable
 
 - [How I hacked my smart bracelet](https://securelist.com/blog/research/69369/how-i-hacked-my-smart-bracelet/)
+
+### Smart Plug
+- [Hacking the D-Link DSP-W215 Smart Plug](http://www.devttys0.com/2014/05/hacking-the-d-link-dsp-w215-smart-plug/)
+- [Reverse Engineering the TP-Link HS110](https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/)
+- [Hacking Kankun Smart Wifi Plug](http://www.anites.com/2015/01/hacking-kankun-smart-wifi-plug.html)
+- [Smart Socket Hack Tutorial](http://souliss.net/media/smart-socket-hack/)
 
 ### Cameras
 
