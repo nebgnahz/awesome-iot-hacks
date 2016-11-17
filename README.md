@@ -19,6 +19,7 @@ the table of content before making pull requests.
   - [RFID](#rfid)
   - [Home Automation](#home-automation)
   - [Hub](#hub)
+  - [Smart Coffee](#smart-coffee)
   - [Wearable](#wearable)
   - [Smart Plug](#smart-plug)
   - [Cameras](#cameras)
@@ -73,11 +74,16 @@ the table of content before making pull requests.
 
 - [TWSL2013-023: Lack of Web and API AuthenticationVulnerability in INSTEON Hub](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-023/?fid=3869)
 
+### Smart Coffee
+
+- [Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal](https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/)
+
 ### Wearable
 
 - [How I hacked my smart bracelet](https://securelist.com/blog/research/69369/how-i-hacked-my-smart-bracelet/)
 
 ### Smart Plug
+
 - [Hacking the D-Link DSP-W215 Smart Plug](http://www.devttys0.com/2014/05/hacking-the-d-link-dsp-w215-smart-plug/)
 - [Reverse Engineering the TP-Link HS110](https://www.softscheck.com/en/reverse-engineering-tp-link-hs110/)
 - [Hacking Kankun Smart Wifi Plug](http://www.anites.com/2015/01/hacking-kankun-smart-wifi-plug.html)
@@ -106,6 +112,7 @@ the table of content before making pull requests.
 
 - [Hacking into Internet Connected Light Bulbs](http://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
+- [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
 
 ### Smart Scale
 
