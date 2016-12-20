@@ -25,6 +25,7 @@ the table of content before making pull requests.
   - [Cameras](#cameras)
   - [Traffic Lights](#traffic-lights)
   - [Automobiles](#automobiles)
+  - [entertainment system](#entertainment-system)
   - [Light Bulbs](#light-bulbs)
   - [Smart Scale](#smart-scale)
   - [Pacemaker](#pacemaker)
@@ -107,6 +108,10 @@ the table of content before making pull requests.
 
 - [Hackers Remotely Attack a Jeep on the Highway](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
+
+### entertainment system
+
+- [Hackers could take control of a plane using in-flight entertainment system](http://www.telegraph.co.uk/technology/2016/12/20/hackers-could-take-control-plane-using-in-flight-entertainment/)
 
 ### Light Bulbs
 
