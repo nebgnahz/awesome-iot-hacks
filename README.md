@@ -27,6 +27,7 @@ the table of content before making pull requests.
   - [Automobiles](#automobiles)
   - [Airplanes](#airplanes)
   - [Light Bulbs](#light-bulbs)
+  - [Locks](#locks)
   - [Smart Scale](#smart-scale)
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
@@ -118,6 +119,10 @@ the table of content before making pull requests.
 - [Hacking into Internet Connected Light Bulbs](http://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
 - [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
+
+### Locks
+
+- [Lockpicking in the IoT](https://media.ccc.de/v/33c3-8019-lockpicking_in_the_iot)
 
 ### Smart Scale
 
