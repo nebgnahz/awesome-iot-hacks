@@ -144,6 +144,7 @@ the table of content before making pull requests.
 - [Breaking Secure-Boot on the Roku](https://blog.exploitee.rs/2013/breaking-secure-boot-on-the-roku/)
 - [Google TV Or: How I Learned to Stop Worrying and Exploit Secure Boot](https://blog.exploitee.rs/2013/google-tv-or-how-i-learned-to-stop-worrying-and-exploit-secure-boot/)
 - [Chromecast: Exploiting the Newest Device By Google](https://blog.exploitee.rs/2013/chromecast-exploiting-the-newest-device-by-google/)
+- [Ransomware Ruins Holiday By Hijacking Family's LG Smart TV on Christmas Day](https://www.yahoo.com/tech/ransomware-ruins-holiday-hijacking-familys-201136667.html)
 
 ### Toilet
 
