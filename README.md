@@ -27,6 +27,7 @@ the table of content before making pull requests.
   - [Automobiles](#automobiles)
   - [Airplanes](#airplanes)
   - [Light Bulbs](#light-bulbs)
+  - [Locks](#locks)
   - [Smart Scale](#smart-scale)
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
@@ -120,6 +121,10 @@ the table of content before making pull requests.
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
 - [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
 
+### Locks
+
+- [Lockpicking in the IoT](https://media.ccc.de/v/33c3-8019-lockpicking_in_the_iot)
+
 ### Smart Scale
 
 - [Fitbit Aria Wi-Fi Smart Scale](https://www.hackerspace-bamberg.de/Fitbit_Aria_Wi-Fi_Smart_Scale)
@@ -145,6 +150,7 @@ the table of content before making pull requests.
 - [Breaking Secure-Boot on the Roku](https://blog.exploitee.rs/2013/breaking-secure-boot-on-the-roku/)
 - [Google TV Or: How I Learned to Stop Worrying and Exploit Secure Boot](https://blog.exploitee.rs/2013/google-tv-or-how-i-learned-to-stop-worrying-and-exploit-secure-boot/)
 - [Chromecast: Exploiting the Newest Device By Google](https://blog.exploitee.rs/2013/chromecast-exploiting-the-newest-device-by-google/)
+- [Ransomware Ruins Holiday By Hijacking Family's LG Smart TV on Christmas Day](https://www.yahoo.com/tech/ransomware-ruins-holiday-hijacking-familys-201136667.html)
 
 ### Toilet
 
