@@ -166,3 +166,5 @@ the table of content before making pull requests.
 - [TWSL2013-021: Multiple Vulnerabilities in Karotz Smart Rabbit](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-021/?fid=3871)
 - [Fisher-Price smart bear allowed hacking of children's biographical data(CVE-2015-8269)](https://www.theguardian.com/technology/2016/feb/02/fisher-price-mattel-smart-toy-bear-data-hack-technology)
 - [Hello Barbie Initial Security Analysis](https://static1.squarespace.com/static/543effd8e4b095fba39dfe59/t/56a66d424bf1187ad34383b2/1453747529070/HelloBarbieSecurityAnalysis.pdf)
+- [Security researcher Ken Munro discovers vulnerability in Vivid Toy’s talking Doll ‘Cayla’](http://www.techworm.net/2015/01/vivid-toys-cayla-talking-doll-vulnerable-hacking-says-security-researcher.html)
+
