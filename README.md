@@ -120,6 +120,7 @@ the table of content before making pull requests.
 - [Hacking into Internet Connected Light Bulbs](http://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
 - [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
+- [Extended Functionality Attacks on IoT Devices: The Case of Smart Lights](https://zh.scribd.com/doc/306620189/Eyal-Ronen-and-Adi-Shamir-Hack-Lightbulbs)
 
 ### Locks
 
