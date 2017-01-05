@@ -29,6 +29,7 @@ the table of content before making pull requests.
   - [Light Bulbs](#light-bulbs)
   - [Locks](#locks)
   - [Smart Scale](#smart-scale)
+  - [Smart Meters](#smart-meters)
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
   - [Fridge](#fridge)
@@ -127,6 +128,10 @@ the table of content before making pull requests.
 ### Smart Scale
 
 - [Fitbit Aria Wi-Fi Smart Scale](https://www.hackerspace-bamberg.de/Fitbit_Aria_Wi-Fi_Smart_Scale)
+
+### Smart Meters
+
+- [Solar Power Firm Patches Meters Vulnerable to Command Injection Attacks](https://threatpost.com/solar-power-firm-patches-meters-vulnerable-to-command-injection-attacks/122324/)
 
 ### Pacemaker
 
