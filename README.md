@@ -164,3 +164,4 @@ the table of content before making pull requests.
 ### Toys
 
 - [TWSL2013-021: Multiple Vulnerabilities in Karotz Smart Rabbit](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-021/?fid=3871)
+- [Fisher-Price smart bear allowed hacking of children's biographical data(CVE-2015-8269)](https://www.theguardian.com/technology/2016/feb/02/fisher-price-mattel-smart-toy-bear-data-hack-technology)
