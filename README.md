@@ -29,6 +29,7 @@ the table of content before making pull requests.
   - [Light Bulbs](#light-bulbs)
   - [Locks](#locks)
   - [Smart Scale](#smart-scale)
+  - [Smart Meters](#smart-meters)
   - [Pacemaker](#pacemaker)
   - [Thermostats](#thermostats)
   - [Fridge](#fridge)
@@ -120,6 +121,7 @@ the table of content before making pull requests.
 - [Hacking into Internet Connected Light Bulbs](http://www.contextis.com/resources/blog/hacking-internet-connected-light-bulbs/)
 - [Hacking Lightbulbs: Security Evaluation Of The Philips Hue Personal Wireless Lighting System](http://www.dhanjani.com/docs/Hacking%20Lighbulbs%20Hue%20Dhanjani%202013.pdf)
 - [IoT Goes Nuclear: Creating a ZigBee Chain Reaction](http://www.wisdom.weizmann.ac.il/~eyalro/iotworm/iotworm.pdf)
+- [Extended Functionality Attacks on IoT Devices: The Case of Smart Lights](https://zh.scribd.com/doc/306620189/Eyal-Ronen-and-Adi-Shamir-Hack-Lightbulbs)
 
 ### Locks
 
@@ -128,6 +130,10 @@ the table of content before making pull requests.
 ### Smart Scale
 
 - [Fitbit Aria Wi-Fi Smart Scale](https://www.hackerspace-bamberg.de/Fitbit_Aria_Wi-Fi_Smart_Scale)
+
+### Smart Meters
+
+- [Solar Power Firm Patches Meters Vulnerable to Command Injection Attacks](https://threatpost.com/solar-power-firm-patches-meters-vulnerable-to-command-injection-attacks/122324/)
 
 ### Pacemaker
 
@@ -159,3 +165,7 @@ the table of content before making pull requests.
 ### Toys
 
 - [TWSL2013-021: Multiple Vulnerabilities in Karotz Smart Rabbit](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2013-021/?fid=3871)
+- [Fisher-Price smart bear allowed hacking of children's biographical data (CVE-2015-8269)](https://www.theguardian.com/technology/2016/feb/02/fisher-price-mattel-smart-toy-bear-data-hack-technology)
+- [Hello Barbie Initial Security Analysis](https://static1.squarespace.com/static/543effd8e4b095fba39dfe59/t/56a66d424bf1187ad34383b2/1453747529070/HelloBarbieSecurityAnalysis.pdf)
+- [Security researcher Ken Munro discovers vulnerability in Vivid Toy's talking Doll 'Cayla'](http://www.techworm.net/2015/01/vivid-toys-cayla-talking-doll-vulnerable-hacking-says-security-researcher.html)
+
