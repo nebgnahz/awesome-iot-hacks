@@ -100,6 +100,7 @@ the table of content before making pull requests.
 - [Hacker 'shouts abuse' via Foscam baby monitoring camera](http://www.bbc.com/news/technology-23693460)
 - [Urban surveillance camera systems lacking security](https://blog.kaspersky.com/urban-surveillance-not-secure/8901/)
 - [TWSL2014-007: Multiple Vulnerabilities in Y-Cam IP Cameras](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2014-007/?fid=3850)
+- [Samsung SmartCam install.php Remote Root Command Exec](https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B#iWatch_install.php_Remote_Root_Command_Execution)
 
 ### Traffic Lights
 
