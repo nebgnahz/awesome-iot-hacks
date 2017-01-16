@@ -38,7 +38,7 @@ the table of content before making pull requests.
   - [Toys](#toys)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-  
+
 ## Analysis, Reports and Slides
 
 - [Internet of Things Research Study (HP 2014 Report)](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
