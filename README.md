@@ -75,7 +75,7 @@ the table of content before making pull requests.
 - [Popular Home Automation System Backdoored Via Unpatched Flaw](http://www.darkreading.com/vulnerabilities---threats/popular-home-automation-system-backdoored-via-unpatched-flaw/d/d-id/1320004?_mc=sm_dr_editor_kellyjacksonhiggins)
 
 ### Connected Doorbell
-- [CVE-2015-4400 : Backdoorbot, Network Configuration Leak on a Connected Doorbell](https://blog.fortinet.com/2016/01/22/cve-2015-4400-backdoorbot-network-configuration-leak-on-a-connected-doorbell), ([video](https://www.youtube.com/watch?v=a05RciFhPrs))
+- [CVE-2015-4400: Backdoorbot, Network Configuration Leak on a Connected Doorbell](https://blog.fortinet.com/2016/01/22/cve-2015-4400-backdoorbot-network-configuration-leak-on-a-connected-doorbell), ([video](https://www.youtube.com/watch?v=a05RciFhPrs))
 
 ### Hub
 
