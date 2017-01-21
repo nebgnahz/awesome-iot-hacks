@@ -105,6 +105,7 @@ the table of content before making pull requests.
 - [Urban surveillance camera systems lacking security](https://blog.kaspersky.com/urban-surveillance-not-secure/8901/)
 - [TWSL2014-007: Multiple Vulnerabilities in Y-Cam IP Cameras](https://www.trustwave.com/Resources/Security-Advisories/Advisories/TWSL2014-007/?fid=3850)
 - [Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras](https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/)
+- [Samsung SmartCam install.php Remote Root Command Exec](https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B#iWatch_install.php_Remote_Root_Command_Execution)
 
 ### Traffic Lights
 
