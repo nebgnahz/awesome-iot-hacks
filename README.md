@@ -117,7 +117,7 @@ the table of content before making pull requests.
 - [Hackers Remotely Attack a Jeep on the Highway](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
 
-### Airplanes 
+### Airplanes
 
 - [Hackers could take control of a plane using in-flight entertainment system](http://www.telegraph.co.uk/technology/2016/12/20/hackers-could-take-control-plane-using-in-flight-entertainment/)
 
@@ -173,4 +173,4 @@ the table of content before making pull requests.
 - [Fisher-Price smart bear allowed hacking of children's biographical data (CVE-2015-8269)](https://www.theguardian.com/technology/2016/feb/02/fisher-price-mattel-smart-toy-bear-data-hack-technology)
 - [Hello Barbie Initial Security Analysis](https://static1.squarespace.com/static/543effd8e4b095fba39dfe59/t/56a66d424bf1187ad34383b2/1453747529070/HelloBarbieSecurityAnalysis.pdf)
 - [Security researcher Ken Munro discovers vulnerability in Vivid Toy's talking Doll 'Cayla'](http://www.techworm.net/2015/01/vivid-toys-cayla-talking-doll-vulnerable-hacking-says-security-researcher.html)
-
+- [Data from connected CloudPets teddy bears leaked and ransomed, exposing kids' voice messages](https://www.troyhunt.com/data-from-connected-cloudpets-teddy-bears-leaked-and-ransomed-exposing-kids-voice-messages/)
