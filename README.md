@@ -167,7 +167,7 @@ the table of content before making pull requests.
 ### Rifle (Weapon)
 
 - [Hacking a IoT Rifle - BlackHat 2015 - 36 slides](https://www.blackhat.com/docs/us-15/materials/us-15-Sandvik-When-IoT-Attacks-Hacking-A-Linux-Powered-Rifle.pdf)
-- [Hackers Can Disable a Sniper Rifle—Or Change Its Target - Wired 2015] (https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/)
+- [Hackers Can Disable a Sniper Rifle—Or Change Its Target - Wired 2015](https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/)
 
 ### Toilet
 
