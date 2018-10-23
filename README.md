@@ -38,6 +38,7 @@ the table of content before making pull requests.
   - [Rifle (Weapon)](#rifle-weapon)
   - [Toilet](#toilet)
   - [Toys](#toys)
+  - [Drones](#drones)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -180,3 +181,11 @@ the table of content before making pull requests.
 - [Hello Barbie Initial Security Analysis](https://static1.squarespace.com/static/543effd8e4b095fba39dfe59/t/56a66d424bf1187ad34383b2/1453747529070/HelloBarbieSecurityAnalysis.pdf)
 - [Security researcher Ken Munro discovers vulnerability in Vivid Toy's talking Doll 'Cayla'](http://www.techworm.net/2015/01/vivid-toys-cayla-talking-doll-vulnerable-hacking-says-security-researcher.html)
 - [Data from connected CloudPets teddy bears leaked and ransomed, exposing kids' voice messages](https://www.troyhunt.com/data-from-connected-cloudpets-teddy-bears-leaked-and-ransomed-exposing-kids-voice-messages/)
+
+### Drones
+
+- ["Parrot Drones Hijacking" - RSA2018, Pedro Cabrera, March 2018](Video: https://youtu.be/66z-aXy_1Yo, Slides: https://www.rsaconference.com/writable/presentations/file_upload/mbs-w14-parrot-drones-hijacking.pdf)
+- ["All your bebop drones still belong to us, drone hijacking", Pedro Cabrera, 2016](Video: https://youtu.be/ra0nKHvaXnc)
+- ["Hacking the DJI Phantom 3", Paolo Stagno, January 25, 2017](Web: "http://dronesec.xyz/2017/01/25/hacking-the-dji-phantom-3/)
+- ["Shelling out on 3DR Solo", Kevin Finisterre,June 15, 2015](Pdf: http://www.digitalmunition.com/ShellingOutOnSolo_nopass.pdf)
+- [PHDays VI, hacking Syma X5C quadcopter, Pavel Novikov and Artur Garipov, June 9, 2016](Web: http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html)
