@@ -35,7 +35,7 @@ the table of content before making pull requests.
   - [Thermostats](#thermostats)
   - [Fridge](#fridge)
   - [Media Player & TV](#media-player--tv)
-  - [Rifle (Weapon)](#rifle-weapon)
+  - [Firearms](#firearms)
   - [Toilet](#toilet)
   - [Toys](#toys)
 
@@ -164,8 +164,9 @@ the table of content before making pull requests.
 - [Chromecast: Exploiting the Newest Device By Google](https://blog.exploitee.rs/2013/chromecast-exploiting-the-newest-device-by-google/)
 - [Ransomware Ruins Holiday By Hijacking Family's LG Smart TV on Christmas Day](https://www.yahoo.com/tech/ransomware-ruins-holiday-hijacking-familys-201136667.html)
 
-### Rifle (Weapon)
+### Firearms
 
+- [DEF CON 25 - Plore - Popping a Smart Gun](https://www.youtube.com/watch?v=J3f0p3vTY-c) ([Slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Plore-Popping-a-Smart-Gun.pdf))
 - [Hacking a IoT Rifle - BlackHat 2015 - 36 slides](https://www.blackhat.com/docs/us-15/materials/us-15-Sandvik-When-IoT-Attacks-Hacking-A-Linux-Powered-Rifle.pdf)
 - [Hackers Can Disable a Sniper Rifle—Or Change Its Target - Wired 2015](https://www.wired.com/2015/07/hackers-can-disable-sniper-rifleor-change-target/)
 
