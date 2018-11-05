@@ -184,7 +184,7 @@ the table of content before making pull requests.
 
 ### Drones
 
-- [Parrot Drones Hijacking - RSA2018 Video, Pedro Cabrera, March 2018](https://youtu.be/66z-aXy_1Yo, https://www.rsaconference.com/writable/presentations/file_upload/mbs-w14-parrot-drones-hijacking.pdf)
+- [Parrot Drones Hijacking - RSA2018 Video, Pedro Cabrera, March 2018](https://youtu.be/66z-aXy_1Yo) ([Slides](https://www.rsaconference.com/writable/presentations/file_upload/mbs-w14-parrot-drones-hijacking.pdf))
 - [Hacking the DJI Phantom 3, Paolo Stagno, January 25, 2017](http://dronesec.xyz/2017/01/25/hacking-the-dji-phantom-3/)
 - [PHDays VI, hacking Syma X5C quadcopter, Pavel Novikov and Artur Garipov, June 9, 2016](http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html)
 - [All your bebop drones still belong to us, drone hijacking, Pedro Cabrera, 2016](https://youtu.be/ra0nKHvaXnc)
