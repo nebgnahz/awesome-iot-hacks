@@ -50,6 +50,7 @@ the table of content before making pull requests.
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
 - [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf) - ([wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs))
 - [Careful Connections: Building Security in the Internet of Things (FTC)](https://www.ftc.gov/system/files/documents/plain-language/pdf0199-carefulconnections-buildingsecurityinternetofthings.pdf)
+- [Analysis of IoT honeypot data; How devices are hacked, type of infections and origin of attacks (Kaspersky lab, 2018)](https://securelist.com/new-trends-in-the-world-of-iot-threats/87991/)
 
 ## Communities
 
