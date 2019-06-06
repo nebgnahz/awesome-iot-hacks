@@ -132,6 +132,7 @@ the table of content before making pull requests.
 ### Locks
 
 - [Lockpicking in the IoT](https://media.ccc.de/v/33c3-8019-lockpicking_in_the_iot)
+- [Tapplock: This $100 'Smart Lock' Can Be Hacked Open In 2 Seconds](https://www.forbes.com/sites/thomasbrewster/2018/06/13/tapplock-smart-lock-hacked-in-2-seconds/#769e56811333)
 
 ### Smart Scale
 
