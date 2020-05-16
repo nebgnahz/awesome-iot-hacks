@@ -39,6 +39,7 @@ the table of content before making pull requests.
   - [Toilet](#toilet)
   - [Toys](#toys)
   - [Drones](#drones)
+  - [Biometrik](#biometrik)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,6 +61,7 @@ the table of content before making pull requests.
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ## IoT Hacks
+- [Odoo alternative IoT Box](https://github.com/fananimi/IotBox-Hack)
 
 ### Thingbots
 
@@ -70,6 +72,7 @@ the table of content before making pull requests.
 - [Vulnerabilities in First-Generation RFID-enabled Credit Cards](http://www.arijuels.com/wp-content/uploads/2013/09/HBFJ+07.pdf)
 - [MIT Subway Hack Paper Published on the Web](http://www.pcmag.com/article2/0,2817,2327898,00.asp)
 - [Tampered Card Readers Steal Data via Bluetooth](http://www.americanbanker.com/security-watch/bluetooth-skimming-1042020-1.html)
+- [Mifare Tool, PC/SC Developer tools for Mifare Card](https://github.com/fananimi/mifare-tools)
 
 ### Home Automation
 
@@ -192,3 +195,6 @@ the table of content before making pull requests.
 - [All your bebop drones still belong to us, drone hijacking, Pedro Cabrera, 2016](https://youtu.be/ra0nKHvaXnc)
 - [Shelling out on 3DR Solo, Kevin Finisterre,June 15, 2015](http://www.digitalmunition.com/ShellingOutOnSolo_nopass.pdf)
 
+### Biometrik
+
+- [pyzk](https://github.com/fananimi/pyzk)
